@@ -1,0 +1,2 @@
+def times(num)
+end
